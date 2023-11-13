@@ -17,9 +17,9 @@ This analysis was done using python
 
 
 ### Files Used
-Washington.csv
-Chicago.csv
-New_york_city.csv
+* Washington.csv
+* Chicago.csv
+* New_york_city.csv
 
 
 ### Credits
